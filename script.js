@@ -33,4 +33,3 @@ randomColor.addEventListener("click", function () {
 });
 
 setGradient();
-
